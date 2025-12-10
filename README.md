@@ -25,9 +25,3 @@
 ![Discord Presence](https://lanyard.cnrad.dev/api/943558564423815189)
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=ralf1q&theme=tokyonight)
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ralf1q&theme=github_dark)
