@@ -5,8 +5,6 @@
 - Bot developer on Discord  
 - Software & automation enthusiast  
 - Always building something cool  
-- Discord server:  
-  👉 https://discord.gg/ntQRWaBQz9
 
 ---
 
