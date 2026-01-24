@@ -1,25 +1,5 @@
-# Salut! I'm ralf1q 👋
+# Welcome 👋
 
-## 👤 About Me
-- Python developer  
-- Bot developer on Discord  
-- Software & automation enthusiast  
-- Always building something cool  
+Hi there! I'm **ralf1q**!
 
----
-
-## 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-21D789?logo=pycharm&logoColor=black)
-
----
-
-## 🎧 Discord Status
-![Discord Presence](https://lanyard.cnrad.dev/api/943558564423815189)
-
----
+🔗 https://camo.githubusercontent.com/5f5f68c64450e1b5ad4dd099aef7af9ee4e959058ad0b56b21f411579520e76f/68747470733a2f2f6c616e796172642e636e7261642e6465762f6170692f393433353538353634343233383135313839
